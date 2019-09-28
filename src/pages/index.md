@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: That's what it said on 'Ask Jeeves.'
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Across from where? Michael! I'm half machine.
+subheading: 'I''m a monster. I''m half machine. I''m a monster. '
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: That's why you always leave a note!
+  description: >-
+    As you may or may not know, Lindsay and I have hit a bit of a rough patch.
+    Oh, you're gonna be in a coma, all right. There's only one man I've ever
+    called a coward, and that's Brian Doyle Murray. No, what I'm calling you is
+    a television actor.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  It's a hug, Michael. I'm hugging you. No… but I'd like to be asked! He'll want
+  to use your yacht, and I don't want this thing smelling like fish. I'm half
+  machine. I'm a monster. No, I did not kill Kitty. However, I am going to
+  oblige and answer the nice officer's questions because I am an honest man with
+  no secrets to hide.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
