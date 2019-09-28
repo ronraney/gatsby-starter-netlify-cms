@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: That's what it said on 'Ask Jeeves.'
-image: /img/home-jumbotron.jpg
+image: /img/p50142.jpg
 heading: Across from where? Michael! I'm half machine.
 subheading: 'I''m a monster. I''m half machine. I''m a monster. '
 mainpitch:
