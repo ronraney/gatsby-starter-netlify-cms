@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: That's what it said on 'Ask Jeeves.'
+title: Full stack developer with programming skills
 image: /img/p50142.jpg
 heading: Across from where? Michael! I'm half machine.
-subheading: 'I''m a monster. I''m half machine. I''m a monster. '
+subheading: 'Experience with a multitude of content management systems '
 mainpitch:
   title: That's why you always leave a note!
   description: >-
